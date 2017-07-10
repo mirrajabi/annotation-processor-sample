@@ -136,8 +136,8 @@ I guess thats enough for a *readme* :))
 
 ## Usefull reads
 
-[ANNOTATION PROCESSING 101 - by Hannes Dorfmann](hannesdorfmann.com/annotation-processing/annotationprocessing101)
-[Android Annotation Processing Setup using Gradle](http://blog.jensdriller.com/android-annotation-processing-setup-using-gradle/)
+- [ANNOTATION PROCESSING 101 - by Hannes Dorfmann](hannesdorfmann.com/annotation-processing/annotationprocessing101)
+- [Android Annotation Processing Setup using Gradle](http://blog.jensdriller.com/android-annotation-processing-setup-using-gradle/)
 
 ## Used libraries
 

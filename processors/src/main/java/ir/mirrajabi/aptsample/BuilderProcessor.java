@@ -64,6 +64,7 @@ public class BuilderProcessor extends AbstractProcessor {
                     }
                 MethodSpec privateConstructor = MethodSpec.constructorBuilder()
                         .addModifiers(Modifier.PRIVATE)
+                        .addStatement("this.buildable= new " + element.getSimpleName() + "()")
                         .build();
                 outputType.addMethod(privateConstructor);
                 MethodSpec staticInstance = MethodSpec.methodBuilder("having")

@@ -134,7 +134,7 @@ But remember, we just annotated our class with `@Builder` and nothing else. the 
 
 I guess thats enough for a *readme* :))
 
-## Usefull reads
+## Useful reads
 
 - [ANNOTATION PROCESSING 101 - by Hannes Dorfmann](hannesdorfmann.com/annotation-processing/annotationprocessing101)
 - [Android Annotation Processing Setup using Gradle](http://blog.jensdriller.com/android-annotation-processing-setup-using-gradle/)
